@@ -1,8 +1,8 @@
 const NewPost=()=>{
     return(
-        <NewPost>
+        <main>
             <h1>NewPost</h1>
-        </NewPost>
+        </main>
     )
 }
 
